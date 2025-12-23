@@ -1,2 +1,6 @@
 # rsm-dsciarrino.github.io
-webpage for Hawaii tableau dashboard
+Webpage for Hawaii tableau dashboard
+
+Tableau Public: 
+https://public.tableau.com/shared/QDY4NRRMF?:display_count=n&:origin=viz_share_link 
+
